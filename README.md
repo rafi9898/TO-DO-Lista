@@ -4,7 +4,10 @@ Lista zadań wykonana w JavaScript. Tworząc aplikację poduczyłem się zarząd
 <center><h1>TO-DO Lista</h1></center>
 <center><p>Zdjęcie Aplikacji</p></center>
 
-<center><img src="https://lh3.googleusercontent.com/uSPWXhrRlnwMyB66EmyGzhHko0EJl_LKHv83-TgxqIapjgOfRDsLNELhAmaNJtVZ7ZIngPygdmuV5Z3A8ovA=w1680-h944-rw" alt="Screen Aplikacji"></img></center>
+
+<center>Demo: <a href="https://rpodraza.pl/demo11/">Kliknij Tutaj</a></center>
+
+<center><img src="https://rpodraza.pl/img/projekty/todo.png"></img></center>
 
 
 
