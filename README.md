@@ -5,9 +5,9 @@ Lista zadań wykonana w JavaScript. Tworząc aplikację poduczyłem się zarząd
 <center><p>Zdjęcie Aplikacji</p></center>
 
 
-<center>Demo: <a href="https://rpodraza.pl/demo11/">Kliknij Tutaj</a></center>
+<center>Demo: <a href="https://rafal-podraza.pl/demo11/">Kliknij Tutaj</a></center>
 
-<center><img src="https://rpodraza.pl/img/projekty/todo.png"></img></center>
+<center><img src="https://rafal-podraza.pl/img/projekty/todo.png"></img></center>
 
 
 
